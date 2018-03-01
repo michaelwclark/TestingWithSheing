@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+static/dist/main.js
+static/dist/main.js.map
+static/dist/shared.js.map
+static/dist/shared.js
+.idea/
+dist/
+.appssh/yarn-error.log
+.appssh
+.yarnclean
+build/
+yarn-error.log

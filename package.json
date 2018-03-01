@@ -1,0 +1,35 @@
+{
+  "name": "testingwithsheing",
+  "version": "1.0.0",
+  "description": "Test application for lunch and learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwclark/TestingWithSheing.git"
+  },
+  "keywords": [
+    "Testing",
+    "Jest",
+    "Chai"
+  ],
+  "author": "Michael W. Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelwclark/TestingWithSheing/issues"
+  },
+  "homepage": "https://github.com/michaelwclark/TestingWithSheing#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jest": "^22.4.2"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "raven": "^2.4.2",
+    "request-promise": "^4.2.2"
+  }
+}
